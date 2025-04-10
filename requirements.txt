@@ -7,4 +7,4 @@ azure.ai.openai
 nltk
 fitz
 numpy
-sklearn
+scikit-learn
