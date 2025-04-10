@@ -1,0 +1,10 @@
+azure-identity
+azure-keyvault-secrets
+PyMuPDF
+openai
+scikit-learn
+azure.ai.openai
+nltk
+fitz
+numpy
+sklearn
